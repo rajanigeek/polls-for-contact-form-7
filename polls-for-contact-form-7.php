@@ -208,3 +208,9 @@ function cf7p_result_btn(){
 }
 require_once(CF7P_PLUGIN_DIR_PATH . 'class-admin.php');
 require_once(CF7P_PLUGIN_DIR_PATH . 'functions.php');
+
+<<<<<<< HEAD
+// added last line new
+=======
+// added comment to last line
+>>>>>>> b7d2bdfcddf6e3b24f1f6148d1f45f522af457ae
