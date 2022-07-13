@@ -54,7 +54,7 @@ For View Polls result go to Contact form 7-> Polls Result.
 2. Contact form 7 -> Form tab
 3. Contact form 7 -> Polls setting tab
 4. Contact form 7 -> Polls result tab
-5. Display polls result
+5. Display polls result.
 
 == Changelog ==
 
