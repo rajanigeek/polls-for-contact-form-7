@@ -5,7 +5,7 @@ Tags: Polls, Polls for Contact Form, Contact Form Polls
 Requires PHP: 5.2.4
 Requires at least: 3.0.1
 Tested up to: 5.9.3
-Stable tag: 1.1
+Stable tag: 1.0
 
 == Description ==
 
@@ -57,9 +57,6 @@ For View Polls result go to Contact form 7-> Polls Result.
 5. Display polls result
 
 == Changelog ==
-
-= 1.1 =
-Fixed bug.
 
 = 1.0 =
 
